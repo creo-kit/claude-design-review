@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "name": "claude-design-review",
+  "version": "1.0.0",
+  "description": "AI-powered design review skill for Claude Code -- responsive, WCAG AA, heuristics",
+  "skills": [
+    {
+      "name": "creo-design-review",
+      "path": "skills/creo-design-review/SKILL.md"
+    }
+  ],
+  "agents": [
+    {
+      "name": "creo-design-review",
+      "path": "agents/creo-design-review.md"
+    }
+  ]
+}
