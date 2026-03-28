@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/cover-image.svg" alt="claude-design-review" width="100%" /></p>
+
 # creo-design-review
 
 AI-powered design review skill for Claude Code -- responsive testing, WCAG accessibility, and UX heuristics.
